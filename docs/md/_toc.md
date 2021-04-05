@@ -20,5 +20,6 @@
 
 > :Collapse label=Members
 > 
-> [NN](/docs/members/nn)
+> [Marcela Guzmán Caicedo](/docs/members/mnguzmanc)
 > [Alex Jose Alberto Barreto Cajica](/docs/members/Alex)
+> [Sergio Nicolás Rivera](/docs/members/snriverar)
