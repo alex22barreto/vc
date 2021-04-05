@@ -21,3 +21,4 @@
 > :Collapse label=Members
 > 
 > [NN](/docs/members/nn)
+> [Alex Jose Alberto Barreto Cajica](/docs/members/Alex)
