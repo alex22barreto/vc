@@ -1149,3 +1149,61 @@ body.dark code {
     color: #1eb2a6;
   }
 }
+  .formula-0-0-18 {
+    color: #757575;
+    padding: 16px;
+    background: #eeeeee;
+    border-radius: 3px;
+  }
+  body.dark .formula-0-0-18 {
+    color: #cacaca;
+    background: #282828;
+  }
+@media (prefers-color-scheme: dark) {
+  body:not(.dark-mode-animate) .formula-0-0-18 {
+    color: #cacaca;
+    background: #282828;
+  }
+}
+  body.dark-mode-animate .formula-0-0-18 {
+    transition: background .3s, color .3s;
+  }
+  .formula-0-0-18.big {
+    font-size: 32px;
+  }
+  .formula-0-0-18.center > div {
+    text-align: center;
+  }
+  .line-0-0-19 {
+    cursor: pointer;
+    padding: 16px 32px;
+    overflow: auto;
+    position: relative;
+    border-radius: 3px;
+  }
+  .line-0-0-19:hover {
+    background: #e8e8e8;
+  }
+  .line-0-0-19 .counter {
+    top: 0;
+    left: 8px;
+    width: 32px;
+    bottom: 0;
+    display: flex;
+    opacity: 0.5;
+    position: absolute;
+    font-size: 10px;
+    text-align: left;
+    align-items: center;
+  }
+  body.dark .line-0-0-19:hover {
+    background: #323232;
+  }
+@media (prefers-color-scheme: dark) {
+  body:not(.dark-mode-animate) .line-0-0-19:hover {
+    background: #323232;
+  }
+}
+  body.dark-mode-animate .line-0-0-19:hover {
+    transition: background .3s;
+  }
